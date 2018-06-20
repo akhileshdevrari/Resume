@@ -1,0 +1,192 @@
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+% Awesome CV LaTeX Template
+%
+% This template has been downloaded from:
+% https://github.com/posquit0/Awesome-CV
+%
+% Author:
+% Claud D. Park <posquit0.bj@gmail.com>
+% http://www.posquit0.com
+%
+% Template license:
+% CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+%
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     Configuration
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Themes: Awesome-CV
+\documentclass[]{awesome-cv}
+\usepackage{textcomp}
+\usepackage{xcolor}
+\usepackage{hyperref}
+%%% Override a directory location for fonts(default: 'fonts/')
+\fontdir[fonts/]
+
+%%% Configure a directory location for sections
+\newcommand*{\sectiondir}{resume/}
+
+%%% Override color
+% Awesome Colors: awesome-emerald, awesome-skyblue, awesome-red, awesome-pink, awesome-orange
+%                 awesome-nephritis, awesome-concrete, awesome-darknight
+%% Color for highlight
+% Define your custom color if you don't like awesome colors
+\definecolor{awesome}{HTML}{b30000}
+%\colorlet{awesome}{awesome-HTML}
+
+%% Colors for text
+%\definecolor{darktext}{HTML}{414141}
+%\definecolor{text}{HTML}{414141}
+%\definecolor{graytext}{HTML}{414141}
+%\definecolor{lighttext}{HTML}{414141}
+
+%%% Override a separator for social informations in header(default: ' | ')
+%\headersocialsep[\quad\textbar\quad]
+    \begin{document}
+    
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     Profile
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{center}
+	\headerfirstnamestyle{Akhilesh} \headerlastnamestyle{Devrari} \\
+	\vspace{2mm}
+	{\faEnvelope\ devrari.akhilesh@gmail.com} | {\faMobile\ 8126268021} | {\faMapMarker\ 004 B3 IIT Mandi 175005} | {\faLink\ \href{https://akhileshdevrari.github.io/}{akhileshdevrari.github.io}}
+\end{center}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     Education
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\cvsection{Education}
+\begin{cventries}
+	\cventry
+	{B. Tech in Computer Science and Engineering}
+	{Indian Institute of Technology Mandi}
+	{Mandi, HP}
+	{August 2016 – June 2020}
+	{CGPA: 8.68/10}
+\end{cventries}
+
+%\vspace{-2mm}
+
+\cvsection{Skills}
+\begin{cventries}
+	\vspace{-4mm}
+	\cventry
+	{}
+	{\def\arraystretch{1.15}{\begin{tabular}{ l l }
+		Programming:  & {\skill{ Comfortable: C/C++, Javascript \hspace{1cm} Less experience: PHP, Python}} \\
+		Utilities:  & {\skill{ MySQL, Git, Linux shell utilities}} \\
+		\end{tabular}}}
+	{}
+	{}
+	{}
+\end{cventries}
+
+\vspace{-7mm}
+\cvsection{Projects}
+\begin{cventries}
+	\cventry
+	{Interpreter for a simple programming language supporting dynamically typed variables, arithmetic operators, conditional and loop statements.}
+	{Bird}
+	{C++}
+	{\href{https://github.com/akhileshdevrari/Bird}{github.com/akhileshdevrari/Bird}}
+	{}
+	
+	\vspace{-5mm}
+	\cventry
+	{A practice platform for competitive programmers to improve through customizable programming contests.}
+	{CodeGym}
+	{PHP, MySQL}
+	{\href{https://github.com/akhileshdevrari/codegym}{github.com/akhileshdevrari/codegym}}
+	{}
+	
+	
+	\vspace{-5mm}
+	\cventry
+	{A normalization tool which tells the normal form of a database schema and can convert it in 3NF.}
+	{Normie}
+	{Javascript}
+	{\href{https://github.com/akhileshdevrari/Normie}{github.com/akhileshdevrari/Normie}}
+	{}
+	
+	\vspace{-5mm}
+	\cventry
+	{A web app to tune a guitar in standard tuning.}
+	{Rhythm}
+	{Javascript}
+	{\href{https://github.com/akhileshdevrari/Rhythm}{github.com/akhileshdevrari/Rhythm}}
+	{}
+	
+\end{cventries}
+
+\vspace{-3mm}
+
+\cvsection{Coursework}
+\vspace{-5mm}
+\begin{cvhonors}
+	\begin{minipage}[t]{0.05\textwidth}
+		A\\
+		A\\
+		A
+	\end{minipage}\begin{minipage}[t]{0.45\textwidth}
+		 Data Structures and Algorithms\\	
+		 Applied Database Practicum\\	
+		 Linear Algebra	
+	\end{minipage}\begin{minipage}[t]{0.05\textwidth}
+		A\\
+		i\\
+		i
+	\end{minipage}\begin{minipage}[t]{0.45\textwidth}
+		Mathematical Foundations of Computer Science\\
+		Computer Organization\\	
+		Information and Database Systems\\	
+	\end{minipage}	
+
+\color[HTML]{b30000}
+\textit{A~:~~A~grade }
+\textit{i~~~:~~in~progress}  
+	
+\end{cvhonors}
+
+
+%\vspace{-3mm}
+%\cvsection{Achievements}
+%\begin{cvhonors}
+%	\cvhonor
+%	{Avishkar 2017}
+%	{1st place in IIT Mandi, Room automation project}
+%	{}
+%	{May 2017}
+%	\cvhonor
+%	{Joint Entrance Exam Advanced}
+%	{All India Rank 1785 out of 200,000 candidates selected out of 1.5 million candidates.}
+%	{}
+%	{June 2016}
+%	\vspace{-7mm}
+%\end{cvhonors}
+
+
+\vspace{-5mm}
+\cvsection{Miscellaneous}
+\begin{cventries}
+	\cventry
+	{TEACHING ASSISTANT IN IC250 (DATA STRUCTURES AND PRACTICUM)}
+	{IIT Mandi}
+	{}
+	{}
+	{}	
+\end{cventries}
+\vspace{-5mm}
+\begin{cventries}
+	\cventry
+	{1st place in IIT Mandi, Room automation project}
+	{Avishkar 2017}
+	{}
+	{}
+	{}	
+\end{cventries}
+
+
+\ 
+\end{document}
