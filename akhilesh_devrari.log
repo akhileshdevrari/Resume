@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2017.9.3)  12 JUL 2018 12:18
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2017.9.3)  12 JUL 2018 12:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -892,6 +892,11 @@ ut line 67.
 
 Overfull \hbox (4.56937pt too wide) in paragraph at lines 83--83
 [][][]|  
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--140
+
  []
 
 
