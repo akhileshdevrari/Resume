@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2017.9.3)  13 AUG 2018 17:52
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2017.9.3)  28 AUG 2018 19:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -870,64 +870,64 @@ LaTeX Info: Redefining \nameref on input line 47.
 \openout3 = `akhilesh_devrari.out'.
 
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 10.00015pt on input line 67.
+(Font)              scaled to size 10.00015pt on input line 69.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 7.01247pt on input line 67.
+(Font)              scaled to size 7.01247pt on input line 69.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 4.9808pt on input line 67.
+(Font)              scaled to size 4.9808pt on input line 69.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 9.99985pt on input line 67.
+(Font)              scaled to size 9.99985pt on input line 69.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.01224pt on input line 67.
+(Font)              scaled to size 7.01224pt on input line 69.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 4.98067pt on input line 67.
+(Font)              scaled to size 4.98067pt on input line 69.
 LaTeX Font Info:    Font shape `EU1/SourceSansPro(2)/m/sl' in size <9> not avai
 lable
 (Font)              Font shape `EU1/SourceSansPro(2)/m/it' tried instead on inp
-ut line 67.
+ut line 69.
 LaTeX Font Info:    Font shape `EU1/SourceSansPro(2)/m/sl' in size <8> not avai
 lable
 (Font)              Font shape `EU1/SourceSansPro(2)/m/it' tried instead on inp
-ut line 67.
+ut line 69.
 
-Overfull \hbox (4.56937pt too wide) in paragraph at lines 83--83
+Overfull \hbox (4.56937pt too wide) in paragraph at lines 84--84
 [][][]|  
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 144--148
+Underfull \hbox (badness 10000) in paragraph at lines 182--186
 
  []
 
 
-Overfull \hbox (457.80486pt too wide) in paragraph at lines 128--149
+Overfull \hbox (457.80486pt too wide) in paragraph at lines 166--187
  [][][][] 
  []
 
 
-Overfull \hbox (7.92757pt too wide) in paragraph at lines 151--153
+Overfull \hbox (7.92757pt too wide) in paragraph at lines 189--191
  []\EU1/lmr/m/it/10 A :  A grade 
  []
 
 
-Overfull \hbox (21.08093pt too wide) in paragraph at lines 151--153
+Overfull \hbox (21.08093pt too wide) in paragraph at lines 189--191
  \EU1/lmr/m/it/10 i   :  in progress 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 196.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 214.
 [1
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 196.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 214.
  (./akhilesh_devrari.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 196.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 196.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 214.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 214.
  ) 
 Here is how much of TeX's memory you used:
- 27999 strings out of 493638
- 482509 string characters out of 6146797
- 599850 words of memory out of 5000000
- 31150 multiletter control sequences out of 15000+600000
+ 28004 strings out of 493638
+ 482574 string characters out of 6146797
+ 600850 words of memory out of 5000000
+ 31155 multiletter control sequences out of 15000+600000
  5797 words of font info for 67 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
  53i,16n,68p,10415b,402s stack positions out of 5000i,500n,10000p,200000b,80000s
